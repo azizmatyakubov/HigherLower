@@ -26,7 +26,7 @@ def check_answer(guess, a_followers, b_followers):
 
 def game():
  
-  score = 0
+  score = 1
   game_should_continue = True
   account_a = get_random_account()
   account_b = get_random_account()
