@@ -1,1 +1,1 @@
-# HigherLower, this is a python app
+HigherLower, this is a python app
